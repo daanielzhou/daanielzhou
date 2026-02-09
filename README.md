@@ -26,7 +26,14 @@ In my free time, you can find me working out at the gym, solving my Rubik's Cube
 💻 Projects
 ---
 **🎧 GrooveAI**: Describe the vibe, and GrooveAI builds the playlist using AI and live Spotify data to turn moods into music.  
-**🍎 KitchenCloud**: Mobile kitchen management for shared households with AI-powered receipt parsing and automated expense splitting.
+<p align="center">
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/94147d23-7cb3-47d1-8d91-195862657ff1"/> 
+</p>  
+
+**🍎 KitchenCloud**: Mobile kitchen management for shared households with AI-powered receipt parsing and automated expense splitting.  
+<p align="center">
+<img width="60%" alt="image" src="https://github.com/user-attachments/assets/1e65e9ff-9ace-4dd7-86dd-ae375e04326c" />
+</p>  
 
 🤝 Connect With Me!
 ---
